@@ -1,3 +1,7 @@
+body{
+  background-color: #e5e5e5;
+}
+
 .nav-item a {
   color: #000;
 }
@@ -7,17 +11,17 @@
   margin: 0 8px 76.54px 34.6px;
 }
 
-.work {
+.headline {
   position: relative;
   margin: 0 auto;
 }
 
-.work-text {
+.headline-text {
   position: absolute;
   margin-top: -35rem;
 }
 
-.work-heading {
+.headline-heading {
   text-align: center;
   margin-left: -19rem;
 }
@@ -26,7 +30,7 @@
   margin-left: -2rem;
 }
 
-.work-p {
+.headline-p {
   width: 100%;
   max-width: 40%;
   margin-left: 33rem;
@@ -37,9 +41,36 @@ li {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 .social-media-icons {
   position: absolute;
   margin-top: -23rem;
   margin-left: 24rem;
   
+}
+
+span {
+  background-image: url(./image/Counter.png);
+  background-repeat: no-repeat;
+  margin-left: 30px;
+  background-position-x: 0px;
+  background-position-y: 8px;
+  padding-left: 20px;
+}
+
+.li-bg {
+  background-color: #ebebff;
+  padding: 4px 12px 4px 12px;
+  border-radius: 8px;
+}
+
+.work-container .work-flex {
+  background-color: #fff;
+}
+
+.work-flex {
+  border-radius: 12px;
 }

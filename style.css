@@ -1,5 +1,9 @@
-body{
+body {
   background-color: #e5e5e5;
+}
+
+a {
+  text-decoration: none;
 }
 
 .nav-item a {
@@ -34,29 +38,24 @@ body{
   width: 100%;
   max-width: 40%;
   margin-left: 33rem;
-  margin: 0 auto;
-} 
+  margin-right: auto;
+}
 
 li {
   list-style: none;
-}
-
-a {
-  text-decoration: none;
 }
 
 .social-media-icons {
   position: absolute;
   margin-top: -23rem;
   margin-left: 24rem;
-  
 }
 
 span {
   background-image: url(./image/Counter.png);
   background-repeat: no-repeat;
   margin-left: 30px;
-  background-position-x: 0px;
+  background-position-x: 0;
   background-position-y: 8px;
   padding-left: 20px;
 }
@@ -67,10 +66,10 @@ span {
   border-radius: 8px;
 }
 
-.work-container .work-flex {
-  background-color: #fff;
-}
-
 .work-flex {
   border-radius: 12px;
+}
+
+.work-container .work-flex {
+  background-color: #fff;
 }

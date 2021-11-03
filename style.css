@@ -1,0 +1,36 @@
+.bgc-img {
+  width: 100%;
+  margin: 0 8px 76.54px 34.6px;
+}
+
+.work {
+  position: relative;
+}
+
+.work-text {
+  position: absolute;
+  margin-top: -40rem;
+}
+
+.work-text h1 {
+  text-align: center;
+  margin-left: -1.7rem;
+}
+
+.work-p {
+  width: 100%;
+  max-width: 40%;
+  margin-left: 33rem;
+  margin: 0 auto;
+} 
+
+li {
+  list-style: none;
+}
+
+.social-media-icons {
+  position: absolute;
+  margin-top: -30rem;
+  margin-left: 28rem;
+  
+}

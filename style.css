@@ -1,3 +1,7 @@
+.nav-item a {
+  color: #000;
+}
+
 .bgc-img {
   width: 100%;
   margin: 0 8px 76.54px 34.6px;
@@ -5,6 +9,7 @@
 
 .work {
   position: relative;
+  margin: 0 auto;
 }
 
 .work-text {
@@ -12,9 +17,13 @@
   margin-top: -40rem;
 }
 
-.work-text h1 {
+.work-heading {
   text-align: center;
-  margin-left: -1.7rem;
+  margin-left: -19rem;
+}
+
+.heading-1 {
+  margin-left: -2rem;
 }
 
 .work-p {
@@ -31,6 +40,6 @@ li {
 .social-media-icons {
   position: absolute;
   margin-top: -30rem;
-  margin-left: 28rem;
+  margin-left: 24.5rem;
   
 }

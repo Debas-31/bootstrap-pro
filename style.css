@@ -1,0 +1,75 @@
+body {
+  background-color: #e5e5e5;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav-item a {
+  color: #000;
+}
+
+.bgc-img {
+  width: 100%;
+  margin: 0 8px 76.54px 34.6px;
+}
+
+.headline {
+  position: relative;
+  margin: 0 auto;
+}
+
+.headline-text {
+  position: absolute;
+  margin-top: -35rem;
+}
+
+.headline-heading {
+  text-align: center;
+  margin-left: -19rem;
+}
+
+.heading-1 {
+  margin-left: -2rem;
+}
+
+.headline-p {
+  width: 100%;
+  max-width: 40%;
+  margin-left: 33rem;
+  margin-right: auto;
+}
+
+li {
+  list-style: none;
+}
+
+.social-media-icons {
+  position: absolute;
+  margin-top: -23rem;
+  margin-left: 24rem;
+}
+
+span {
+  background-image: url(./image/Counter.png);
+  background-repeat: no-repeat;
+  margin-left: 30px;
+  background-position-x: 0;
+  background-position-y: 8px;
+  padding-left: 20px;
+}
+
+.li-bg {
+  background-color: #ebebff;
+  padding: 4px 12px 4px 12px;
+  border-radius: 8px;
+}
+
+.work-flex {
+  border-radius: 12px;
+}
+
+.work-container .work-flex {
+  background-color: #fff;
+}
